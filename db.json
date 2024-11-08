@@ -6,7 +6,7 @@
       "nome": "Giovanni",
       "cognome": "Rossi",
       "anni": 30,
-      "sogni": ["viaggiare in Giappone", "scrivere un libro", "aprire un ristorante"]
+      "sogni": ["viaggiare in Giappone", " scrivere un libro", " aprire un ristorante"]
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "nome": "Maria",
       "cognome": "Bianchi",
       "anni": 25,
-      "sogni": ["imparare a suonare il pianoforte", "diventare insegnante", "andare a un concerto dei Coldplay"]
+      "sogni": ["imparare a suonare il pianoforte", " diventare insegnante", " andare a un concerto dei Coldplay"]
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "nome": "Luca",
       "cognome": "Verdi",
       "anni": 40,
-      "sogni": ["correre una maratona", "acquistare una casa al mare", "imparare a fare surf"]
+      "sogni": ["correre una maratona", " acquistare una casa al mare", " imparare a fare surf"]
     }
   ]
 }
