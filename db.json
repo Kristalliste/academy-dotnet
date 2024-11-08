@@ -1,28 +1,28 @@
 {
   "dreams": [
-  {
-    "id": 1,
-    "user_id": "U12345",
-    "nome": "Giovanni",
-    "cognome": "Rossi",
-    "anni": 30,
-    "sogni": ["viaggiare in Giappone", "scrivere un libro", "aprire un ristorante"]
-  },
-  {
-    "id": 2,
-    "user_id": "U67890",
-    "nome": "Maria",
-    "cognome": "Bianchi",
-    "anni": 25,
-    "sogni": ["imparare a suonare il pianoforte", "diventare insegnante", "andare a un concerto dei Coldplay"]
-  },
-  {
-    "id": 3,
-    "user_id": "U54321",
-    "nome": "Luca",
-    "cognome": "Verdi",
-    "anni": 40,
-    "sogni": ["correre una maratona", "acquistare una casa al mare", "imparare a fare surf"]
-  }
-]
+    {
+      "id": 1,
+      "user_id": "U12345",
+      "nome": "Giovanni",
+      "cognome": "Rossi",
+      "anni": 30,
+      "sogni": ["viaggiare in Giappone", "scrivere un libro", "aprire un ristorante"]
+    },
+    {
+      "id": 2,
+      "user_id": "U67890",
+      "nome": "Maria",
+      "cognome": "Bianchi",
+      "anni": 25,
+      "sogni": ["imparare a suonare il pianoforte", "diventare insegnante", "andare a un concerto dei Coldplay"]
+    },
+    {
+      "id": 3,
+      "user_id": "U54321",
+      "nome": "Luca",
+      "cognome": "Verdi",
+      "anni": 40,
+      "sogni": ["correre una maratona", "acquistare una casa al mare", "imparare a fare surf"]
+    }
+  ]
 }
