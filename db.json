@@ -1,74 +1,28 @@
 {
-  "activities": [
-    {
-      "id": 1,
-      "task": "Fare la spesa",
-      "category": "Personale",
-      "status": "In sospeso",
-      "priority": "Alta"
-    },
-    {
-      "id": 2,
-      "task": "Completare la relazione sul progetto",
-      "category": "Lavoro",
-      "status": "In sospeso",
-      "priority": "Alta"
-    },
-    {
-      "id": 3,
-      "task": "Pulire la casa",
-      "category": "Domestico",
-      "status": "In sospeso",
-      "priority": "Media"
-    },
-    {
-      "id": 4,
-      "task": "Rispondere alle email",
-      "category": "Lavoro",
-      "status": "Completato",
-      "priority": "Bassa"
-    },
-    {
-      "id": 5,
-      "task": "Andare in palestra",
-      "category": "Fitness",
-      "status": "In sospeso",
-      "priority": "Alta"
-    },
-    {
-      "id": 6,
-      "task": "Leggere un capitolo del libro",
-      "category": "Personale",
-      "status": "In sospeso",
-      "priority": "Media"
-    },
-    {
-      "id": 7,
-      "task": "Innaffiare le piante",
-      "category": "Domestico",
-      "status": "Completato",
-      "priority": "Bassa"
-    },
-    {
-      "id": 8,
-      "task": "Preparare una presentazione per la riunione",
-      "category": "Lavoro",
-      "status": "In sospeso",
-      "priority": "Alta"
-    },
-    {
-      "id": 9,
-      "task": "Fare una passeggiata nel parco",
-      "category": "Personale",
-      "status": "Completato",
-      "priority": "Bassa"
-    },
-    {
-      "id": 10,
-      "task": "Studiare per l'esame di matematica",
-      "category": "Studio",
-      "status": "In sospeso",
-      "priority": "Alta"
-    }
-  ]
+  "dreams": [
+  {
+    "id": 1,
+    "user_id": "U12345",
+    "nome": "Giovanni",
+    "cognome": "Rossi",
+    "anni": 30,
+    "sogni": ["viaggiare in Giappone", "scrivere un libro", "aprire un ristorante"]
+  },
+  {
+    "id": 2,
+    "user_id": "U67890",
+    "nome": "Maria",
+    "cognome": "Bianchi",
+    "anni": 25,
+    "sogni": ["imparare a suonare il pianoforte", "diventare insegnante", "andare a un concerto dei Coldplay"]
+  },
+  {
+    "id": 3,
+    "user_id": "U54321",
+    "nome": "Luca",
+    "cognome": "Verdi",
+    "anni": 40,
+    "sogni": ["correre una maratona", "acquistare una casa al mare", "imparare a fare surf"]
+  }
+]
 }
